@@ -1,14 +1,12 @@
-## Hi there 👋
+<!--Encabezado-->
+<h1 align="center"> Hola, soy Joseph López</h1>
+<h3 align="center"> Estudiante de Tercer año de Desarrollo de Software</h3>
+<p align="center"> pasión: "Jugar Futbol"</p>
+<p align="center"> filosofía: "Busca la paz en placeres sencillos"</p>
+---
 
-<!--
-**Nano503/Nano503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Soy un estudiante de desarrollo de software. Mi filosofía de vida es simple: **"busca la paz en placeres sencillos"**. 
-
-Aquí tienes un poco más sobre mí:
-
+###  Sobre mí
+soy un Estudiante
 - 🌱 **Actualmente estoy estudiando/aprendiendo:** Todo sobre el fascinante mundo del desarrollo de software.
 - 💬 **Pregúntame sobre:** Programación, tecnología o ¡fútbol!
 - ⚡ **Dato curioso:** Mi gran pasión fuera del código es jugar fútbol ⚽. Es ahí donde encuentro uno de mis placeres más sencillos.
